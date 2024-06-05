@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/carmencapel/carmencapel/main/banner)
+
 # ¡Hola, soy Carmen Capel! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmencapel/)](https://www.linkedin.com/in/carmencapel/)
@@ -8,12 +10,15 @@ Apasionada en todo lo que hago, especialmente en el mundo del desarrollo de soft
 
 ## 🚀 Tecnologías y Herramientas
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+<p align="center">
+ <img src= "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"></img>
+ <img src= "https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+ <img src= "https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></img>
+ <img src= "https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></img>
+ </p>
+
 
 
 
