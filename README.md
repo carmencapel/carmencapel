@@ -3,7 +3,6 @@
 # ¡Hola, soy Carmen Capel! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carmencapel/)](https://www.linkedin.com/in/carmencapel/)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=google-chrome&logoColor=white&link=https://carmencapel.dev)](https://carmencapel.dev)
 
 
 Apasionada en todo lo que hago, especialmente en el mundo del desarrollo de software, donde busco constantemente aprender y enfrentar nuevos desafíos con entusiasmo y dedicación.
