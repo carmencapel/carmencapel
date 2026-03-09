@@ -2,7 +2,7 @@
 
 # ¡Hola, soy Carmen Capel! 👋
 
-### Software Developer | Java • Spring Boot • COBOL • React
+### Software Developer | Java • Spring Boot • COBOL 
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Carmen%20Capel-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carmencapel/)
 
